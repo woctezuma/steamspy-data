@@ -1,6 +1,6 @@
 # SteamSpy: Data
 
-This folder contains data downloaded from SteamSpy on February 4, 2023.
+This folder contains data downloaded from SteamSpy on January 1, 2025.
 
 ### Data acquisition
 
